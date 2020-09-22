@@ -1,5 +1,7 @@
 # OpenFoodFacts Java Wrapper DEMO Application
 
+## Current version 0.0.6
+
 ## Usage
 
 Add one dependency in your POM:
@@ -9,7 +11,7 @@ Add one dependency in your POM:
     <dependency>
         <groupId>pl.coderion.openfoodfacts</groupId>
         <artifactId>openfoodfacts</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.6</version>
         <classifier>java-wrapper</classifier>
     </dependency>
 </dependencies>
